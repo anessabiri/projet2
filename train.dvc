@@ -1,0 +1,13 @@
+md5: ddaf8b1ef3b33280ef2ac284126ac73f
+frozen: true
+deps:
+- path: data/train
+  repo:
+    url: https://github.com/anessabiri/dataset1
+    rev: v1.2
+    rev_lock: 94c296eefd0528dba6b9462a0651f9f3871ebc28
+outs:
+- md5: f9b6ff7dd035fb600a0741110786ffd5.dir
+  size: 346392
+  nfiles: 48
+  path: train
